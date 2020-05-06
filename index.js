@@ -10,7 +10,7 @@ function multiply(){
   
 }
 
-function multiply(){
+function divide(){
   
 }
 
