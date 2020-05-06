@@ -25,9 +25,6 @@ function decrement(n){
 function makeInt(n){
 return(n)  
 }
-function makeInt(n){
-return(n)  
-}
-function makeInt(n){
+function makeInt(NaN){
 return(NaN)  
 }
