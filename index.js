@@ -1,11 +1,12 @@
-Function add(){
+Function add();
+{
   
 }
 Function subtract(){
   
 }
 
-Function add(){
+Function multiply(){
   
 }
 
