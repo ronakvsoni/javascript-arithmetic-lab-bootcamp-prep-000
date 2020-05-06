@@ -1,4 +1,1 @@
-'add()'
-'subtract()'
-'multiply()'
-'divide()'
+add( 1 + 80 )
