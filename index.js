@@ -10,3 +10,7 @@ function multiply(){
   
 }
 
+function multiply(){
+  
+}
+
