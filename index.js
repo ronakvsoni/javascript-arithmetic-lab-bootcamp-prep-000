@@ -21,8 +21,8 @@ function increment(n){
 function decrement(n){
   return (--n)
 }
-function makeInt(10) {
-  return(10)
+function makeInt(n) {
+  return(n)
 }
 
 
