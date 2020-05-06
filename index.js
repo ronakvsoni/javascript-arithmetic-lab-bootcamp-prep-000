@@ -21,3 +21,10 @@ function increment(n){
 function decrement(n){
   return (--n)
 }
+
+var n = 9
+if(n++ == 10)
+{
+  console.log("N is 10")
+}
+console.log(n)
