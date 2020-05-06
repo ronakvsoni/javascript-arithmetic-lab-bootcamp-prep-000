@@ -1,12 +1,12 @@
-Function add()
+function add()
 {
   
 }
-Function subtract(){
+function subtract(){
   
 }
 
-Function multiply(){
+function multiply(){
   
 }
 
