@@ -25,3 +25,4 @@ function makeInt(n) {
   return(n)
 }
 
+makeInt('10',n)
