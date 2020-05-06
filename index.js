@@ -1,1 +1,1 @@
-add()
+add(), subtract(), multiply(), divide() 
